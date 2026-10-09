@@ -1,0 +1,19 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "interfaces_sistema__py",
+		"source" : "/home/rafaelva/termo_monitor/build/interfaces_sistema/interfaces_sistema__py"
+	}
+}

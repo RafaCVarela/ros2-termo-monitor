@@ -1,0 +1,5 @@
+source;share/interfaces_sistema/local_setup.bash
+source;share/interfaces_sistema/local_setup.dsv
+source;share/interfaces_sistema/local_setup.fish
+source;share/interfaces_sistema/local_setup.sh
+source;share/interfaces_sistema/local_setup.zsh

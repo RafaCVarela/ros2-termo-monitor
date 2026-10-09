@@ -1,0 +1,11 @@
+{
+  "package_name": "interfaces_sistema",
+  "output_dir": "/home/rafaelva/termo_monitor/build/interfaces_sistema/rosidl_generator_type_description/interfaces_sistema",
+  "idl_tuples": [
+    "/home/rafaelva/termo_monitor/build/interfaces_sistema/rosidl_adapter/interfaces_sistema:srv/ResetTemperatura.idl"
+  ],
+  "include_paths": [
+    "service_msgs:/opt/ros/lyrical/share/service_msgs/",
+    "builtin_interfaces:/opt/ros/lyrical/share/builtin_interfaces/"
+  ]
+}

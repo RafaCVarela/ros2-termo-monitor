@@ -1,0 +1,78 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"/home/rafaelva/termo_monitor/build/interfaces_sistema/interfaces_sistema__rs/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 32,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "interfaces_sistema__rs::@3241271e6f3c7c678459",
+	"name" : "interfaces_sistema__rs",
+	"paths" : 
+	{
+		"build" : "interfaces_sistema__rs",
+		"source" : "/home/rafaelva/termo_monitor/build/interfaces_sistema/interfaces_sistema__rs"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/home/rafaelva/termo_monitor/build/interfaces_sistema/interfaces_sistema__rs/CMakeFiles/interfaces_sistema__rs",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/rafaelva/termo_monitor/build/interfaces_sistema/interfaces_sistema__rs/CMakeFiles/interfaces_sistema__rs.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/rafaelva/termo_monitor/build/interfaces_sistema/rosidl_generator_rs/interfaces_sistema/rust/src/lib.rs.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

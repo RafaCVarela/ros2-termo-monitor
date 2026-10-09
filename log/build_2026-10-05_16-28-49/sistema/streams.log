@@ -1,0 +1,41 @@
+[1.069s] Invoking command in '/home/rafaelva/termo_monitor/src/sistema': PYTHONPATH=/home/rafaelva/termo_monitor/build/sistema/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rafaelva/termo_monitor/install/sistema/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sistema build --build-base /home/rafaelva/termo_monitor/build/sistema/build install --record /home/rafaelva/termo_monitor/build/sistema/install.log --install-scripts $base/lib/sistema --single-version-externally-managed install_data
+[1.341s] running egg_info
+[1.358s] creating ../../build/sistema/sistema.egg-info
+[1.358s] writing ../../build/sistema/sistema.egg-info/PKG-INFO
+[1.359s] writing dependency_links to ../../build/sistema/sistema.egg-info/dependency_links.txt
+[1.359s] writing entry points to ../../build/sistema/sistema.egg-info/entry_points.txt
+[1.360s] writing requirements to ../../build/sistema/sistema.egg-info/requires.txt
+[1.360s] writing top-level names to ../../build/sistema/sistema.egg-info/top_level.txt
+[1.360s] writing manifest file '../../build/sistema/sistema.egg-info/SOURCES.txt'
+[1.400s] reading manifest file '../../build/sistema/sistema.egg-info/SOURCES.txt'
+[1.400s] writing manifest file '../../build/sistema/sistema.egg-info/SOURCES.txt'
+[1.401s] running build
+[1.401s] running build_py
+[1.401s] creating /home/rafaelva/termo_monitor/build/sistema/build/lib/sistema
+[1.402s] copying sistema/monitor_node.py -> /home/rafaelva/termo_monitor/build/sistema/build/lib/sistema
+[1.402s] copying sistema/temperatura_node.py -> /home/rafaelva/termo_monitor/build/sistema/build/lib/sistema
+[1.403s] copying sistema/__init__.py -> /home/rafaelva/termo_monitor/build/sistema/build/lib/sistema
+[1.403s] copying sistema/py.typed -> /home/rafaelva/termo_monitor/build/sistema/build/lib/sistema
+[1.403s] running install
+[1.407s] running install_lib
+[1.425s] creating /home/rafaelva/termo_monitor/install/sistema/lib/python3.14/site-packages/sistema
+[1.425s] copying /home/rafaelva/termo_monitor/build/sistema/build/lib/sistema/py.typed -> /home/rafaelva/termo_monitor/install/sistema/lib/python3.14/site-packages/sistema
+[1.425s] copying /home/rafaelva/termo_monitor/build/sistema/build/lib/sistema/monitor_node.py -> /home/rafaelva/termo_monitor/install/sistema/lib/python3.14/site-packages/sistema
+[1.426s] copying /home/rafaelva/termo_monitor/build/sistema/build/lib/sistema/temperatura_node.py -> /home/rafaelva/termo_monitor/install/sistema/lib/python3.14/site-packages/sistema
+[1.426s] copying /home/rafaelva/termo_monitor/build/sistema/build/lib/sistema/__init__.py -> /home/rafaelva/termo_monitor/install/sistema/lib/python3.14/site-packages/sistema
+[1.426s] byte-compiling /home/rafaelva/termo_monitor/install/sistema/lib/python3.14/site-packages/sistema/monitor_node.py to monitor_node.cpython-314.pyc
+[1.427s] byte-compiling /home/rafaelva/termo_monitor/install/sistema/lib/python3.14/site-packages/sistema/temperatura_node.py to temperatura_node.cpython-314.pyc
+[1.428s] byte-compiling /home/rafaelva/termo_monitor/install/sistema/lib/python3.14/site-packages/sistema/__init__.py to __init__.cpython-314.pyc
+[1.428s] running install_data
+[1.428s] creating /home/rafaelva/termo_monitor/install/sistema/share/ament_index/resource_index/packages
+[1.429s] copying resource/sistema -> /home/rafaelva/termo_monitor/install/sistema/share/ament_index/resource_index/packages
+[1.430s] copying package.xml -> /home/rafaelva/termo_monitor/install/sistema/share/sistema
+[1.430s] creating /home/rafaelva/termo_monitor/install/sistema/share/sistema/launch
+[1.430s] copying launch/sistema.launch.py -> /home/rafaelva/termo_monitor/install/sistema/share/sistema/launch
+[1.431s] running install_egg_info
+[1.449s] Copying ../../build/sistema/sistema.egg-info to /home/rafaelva/termo_monitor/install/sistema/lib/python3.14/site-packages/sistema-0.0.0-py3.14.egg-info
+[1.450s] running install_scripts
+[1.547s] Installing monitor_node script to /home/rafaelva/termo_monitor/install/sistema/lib/sistema
+[1.548s] Installing temperatura_node script to /home/rafaelva/termo_monitor/install/sistema/lib/sistema
+[1.548s] writing list of installed files to '/home/rafaelva/termo_monitor/build/sistema/install.log'
+[1.612s] Invoked command in '/home/rafaelva/termo_monitor/src/sistema' returned '0': PYTHONPATH=/home/rafaelva/termo_monitor/build/sistema/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rafaelva/termo_monitor/install/sistema/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sistema build --build-base /home/rafaelva/termo_monitor/build/sistema/build install --record /home/rafaelva/termo_monitor/build/sistema/install.log --install-scripts $base/lib/sistema --single-version-externally-managed install_data

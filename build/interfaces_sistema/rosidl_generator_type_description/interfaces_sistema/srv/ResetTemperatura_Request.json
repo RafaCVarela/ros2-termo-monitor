@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "interfaces_sistema/srv/ResetTemperatura_Request",
+      "fields": [
+        {
+          "name": "structure_needs_at_least_one_member",
+          "type": {
+            "type_id": 3,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "interfaces_sistema/srv/ResetTemperatura_Request",
+      "hash_string": "RIHS01_c845e54dd73f6be4681814da8b812903c491ae2effa1e1dfd4cc6008dd46a93a"
+    }
+  ]
+}

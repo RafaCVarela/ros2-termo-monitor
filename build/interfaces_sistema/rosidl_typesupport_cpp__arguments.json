@@ -1,0 +1,25 @@
+{
+  "package_name": "interfaces_sistema",
+  "output_dir": "/home/rafaelva/termo_monitor/build/interfaces_sistema/rosidl_typesupport_cpp/interfaces_sistema",
+  "template_dir": "/opt/ros/lyrical/share/rosidl_typesupport_cpp/resource",
+  "idl_tuples": [
+    "/home/rafaelva/termo_monitor/build/interfaces_sistema/rosidl_adapter/interfaces_sistema:srv/ResetTemperatura.idl"
+  ],
+  "ros_interface_dependencies": [
+    "service_msgs:/opt/ros/lyrical/share/service_msgs/msg/ServiceEventInfo.idl",
+    "builtin_interfaces:/opt/ros/lyrical/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/opt/ros/lyrical/share/builtin_interfaces/msg/Time.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/lyrical/lib/rosidl_typesupport_cpp/rosidl_typesupport_cpp",
+    "/opt/ros/lyrical/lib/python3.14/site-packages/rosidl_typesupport_cpp/__init__.py",
+    "/opt/ros/lyrical/share/rosidl_typesupport_cpp/resource/action__type_support.cpp.em",
+    "/opt/ros/lyrical/share/rosidl_typesupport_cpp/resource/idl__type_support.cpp.em",
+    "/opt/ros/lyrical/share/rosidl_typesupport_cpp/resource/msg__type_support.cpp.em",
+    "/opt/ros/lyrical/share/rosidl_typesupport_cpp/resource/srv__type_support.cpp.em",
+    "/home/rafaelva/termo_monitor/build/interfaces_sistema/rosidl_adapter/interfaces_sistema/srv/ResetTemperatura.idl",
+    "/opt/ros/lyrical/share/service_msgs/msg/ServiceEventInfo.idl",
+    "/opt/ros/lyrical/share/builtin_interfaces/msg/Duration.idl",
+    "/opt/ros/lyrical/share/builtin_interfaces/msg/Time.idl"
+  ]
+}

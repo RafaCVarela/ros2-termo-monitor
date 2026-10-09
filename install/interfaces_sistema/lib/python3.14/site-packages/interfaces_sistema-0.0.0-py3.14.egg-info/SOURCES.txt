@@ -1,0 +1,9 @@
+setup.py
+interfaces_sistema/__init__.py
+interfaces_sistema/py.typed
+interfaces_sistema.egg-info/PKG-INFO
+interfaces_sistema.egg-info/SOURCES.txt
+interfaces_sistema.egg-info/dependency_links.txt
+interfaces_sistema.egg-info/top_level.txt
+interfaces_sistema/srv/__init__.py
+interfaces_sistema/srv/_reset_temperatura.py

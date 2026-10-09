@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/rafaelva/termo_monitor/build/interfaces_sistema/cmake_install.cmake",
+		"/home/rafaelva/termo_monitor/build/interfaces_sistema/interfaces_sistema__py/cmake_install.cmake",
+		"/home/rafaelva/termo_monitor/build/interfaces_sistema/interfaces_sistema__rs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

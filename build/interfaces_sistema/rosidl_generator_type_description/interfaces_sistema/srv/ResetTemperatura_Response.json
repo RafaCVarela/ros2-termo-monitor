@@ -1,0 +1,36 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "interfaces_sistema/srv/ResetTemperatura_Response",
+      "fields": [
+        {
+          "name": "sucesso",
+          "type": {
+            "type_id": 15,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        },
+        {
+          "name": "saida",
+          "type": {
+            "type_id": 17,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "interfaces_sistema/srv/ResetTemperatura_Response",
+      "hash_string": "RIHS01_ddded1673058e1ac74e5d44faf7cfcd74366217a001caec4503cad8422af89de"
+    }
+  ]
+}

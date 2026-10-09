@@ -1,0 +1,4 @@
+# Serviço para resetar temperatura
+---
+bool sucesso
+string saida

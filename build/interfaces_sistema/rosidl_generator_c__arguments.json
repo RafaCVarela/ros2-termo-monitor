@@ -1,0 +1,44 @@
+{
+  "package_name": "interfaces_sistema",
+  "output_dir": "/home/rafaelva/termo_monitor/build/interfaces_sistema/rosidl_generator_c/interfaces_sistema",
+  "template_dir": "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource",
+  "idl_tuples": [
+    "/home/rafaelva/termo_monitor/build/interfaces_sistema/rosidl_adapter/interfaces_sistema:srv/ResetTemperatura.idl"
+  ],
+  "ros_interface_files": [
+    "/home/rafaelva/termo_monitor/src/interfaces_sistema/srv/ResetTemperatura.srv"
+  ],
+  "ros_interface_dependencies": [
+    "service_msgs:/opt/ros/lyrical/share/service_msgs/msg/ServiceEventInfo.idl",
+    "builtin_interfaces:/opt/ros/lyrical/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/opt/ros/lyrical/share/builtin_interfaces/msg/Time.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../../../lib/python3.14/site-packages/rosidl_generator_c/__init__.py",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/action__type_support.h.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/action__type_support.c.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/empty__description.c.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/full__description.c.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/idl.h.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/idl__description.c.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/idl__functions.c.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/idl__functions.h.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/idl__struct.h.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/idl__type_support.c.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/idl__type_support.h.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/msg__functions.c.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/msg__functions.h.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/msg__struct.h.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/msg__type_support.h.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/srv__type_support.c.em",
+    "/opt/ros/lyrical/share/rosidl_generator_c/cmake/../resource/srv__type_support.h.em",
+    "/home/rafaelva/termo_monitor/build/interfaces_sistema/rosidl_adapter/interfaces_sistema/srv/ResetTemperatura.idl",
+    "/opt/ros/lyrical/share/service_msgs/msg/ServiceEventInfo.idl",
+    "/opt/ros/lyrical/share/builtin_interfaces/msg/Duration.idl",
+    "/opt/ros/lyrical/share/builtin_interfaces/msg/Time.idl"
+  ],
+  "type_description_tuples": [
+    "srv/ResetTemperatura.idl:/home/rafaelva/termo_monitor/build/interfaces_sistema/rosidl_generator_type_description/interfaces_sistema/srv/ResetTemperatura.json"
+  ]
+}

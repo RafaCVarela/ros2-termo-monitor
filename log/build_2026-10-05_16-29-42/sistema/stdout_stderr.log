@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/sistema/sistema.egg-info/PKG-INFO
+writing dependency_links to ../../build/sistema/sistema.egg-info/dependency_links.txt
+writing entry points to ../../build/sistema/sistema.egg-info/entry_points.txt
+writing requirements to ../../build/sistema/sistema.egg-info/requires.txt
+writing top-level names to ../../build/sistema/sistema.egg-info/top_level.txt
+reading manifest file '../../build/sistema/sistema.egg-info/SOURCES.txt'
+writing manifest file '../../build/sistema/sistema.egg-info/SOURCES.txt'
+running build
+running build_py
+copying sistema/monitor_node.py -> /home/rafaelva/termo_monitor/build/sistema/build/lib/sistema
+copying sistema/temperatura_node.py -> /home/rafaelva/termo_monitor/build/sistema/build/lib/sistema
+copying sistema/__init__.py -> /home/rafaelva/termo_monitor/build/sistema/build/lib/sistema
+copying sistema/py.typed -> /home/rafaelva/termo_monitor/build/sistema/build/lib/sistema
+running install
+running install_lib
+running install_data
+copying resource/sistema -> /home/rafaelva/termo_monitor/install/sistema/share/ament_index/resource_index/packages
+copying package.xml -> /home/rafaelva/termo_monitor/install/sistema/share/sistema
+copying launch/sistema.launch.py -> /home/rafaelva/termo_monitor/install/sistema/share/sistema/launch
+running install_egg_info
+removing '/home/rafaelva/termo_monitor/install/sistema/lib/python3.14/site-packages/sistema-0.0.0-py3.14.egg-info' (and everything under it)
+Copying ../../build/sistema/sistema.egg-info to /home/rafaelva/termo_monitor/install/sistema/lib/python3.14/site-packages/sistema-0.0.0-py3.14.egg-info
+running install_scripts
+Installing monitor_node script to /home/rafaelva/termo_monitor/install/sistema/lib/sistema
+Installing temperatura_node script to /home/rafaelva/termo_monitor/install/sistema/lib/sistema
+writing list of installed files to '/home/rafaelva/termo_monitor/build/sistema/install.log'
