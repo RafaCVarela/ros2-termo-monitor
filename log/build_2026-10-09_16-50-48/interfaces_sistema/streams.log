@@ -1,0 +1,164 @@
+[0.030s] Invoking command in '/home/rafaelva/termo_monitor/build/interfaces_sistema': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rafaelva/termo_monitor/install/sistema:/opt/ros/lyrical /usr/bin/cmake --build /home/rafaelva/termo_monitor/build/interfaces_sistema -- -j16 -l16
+[0.146s] [  5%] Built target interfaces_sistema__rs
+[0.146s] [  5%] Built target interfaces_sistema__rosidl_generator_type_description
+[0.175s] [  8%] Built target interfaces_sistema__cpp
+[0.177s] [ 22%] Built target interfaces_sistema__rosidl_generator_c
+[0.209s] [ 31%] Built target interfaces_sistema__rosidl_typesupport_c
+[0.209s] [ 40%] Built target interfaces_sistema__rosidl_typesupport_introspection_c
+[0.209s] [ 48%] Built target interfaces_sistema__rosidl_typesupport_cpp
+[0.213s] [ 57%] Built target interfaces_sistema__rosidl_typesupport_fastrtps_c
+[0.214s] [ 65%] Built target interfaces_sistema__rosidl_typesupport_introspection_cpp
+[0.247s] [ 74%] Built target interfaces_sistema__rosidl_typesupport_fastrtps_cpp
+[0.273s] [ 74%] Built target interfaces_sistema
+[0.302s] [ 77%] Built target interfaces_sistema__py
+[0.332s] [ 82%] Built target interfaces_sistema__rosidl_generator_py
+[0.346s] [ 82%] Built target ament_cmake_python_sync_interfaces_sistema
+[0.363s] [ 97%] Built target interfaces_sistema_s__rosidl_typesupport_c
+[0.364s] [ 97%] Built target interfaces_sistema_s__rosidl_typesupport_introspection_c
+[0.364s] [100%] Built target interfaces_sistema_s__rosidl_typesupport_fastrtps_c
+[0.577s] running egg_info
+[0.594s] writing interfaces_sistema.egg-info/PKG-INFO
+[0.595s] writing dependency_links to interfaces_sistema.egg-info/dependency_links.txt
+[0.595s] writing top-level names to interfaces_sistema.egg-info/top_level.txt
+[0.647s] reading manifest file 'interfaces_sistema.egg-info/SOURCES.txt'
+[0.648s] writing manifest file 'interfaces_sistema.egg-info/SOURCES.txt'
+[0.686s] [100%] Built target ament_cmake_python_build_interfaces_sistema_egg
+[0.700s] Invoked command in '/home/rafaelva/termo_monitor/build/interfaces_sistema' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rafaelva/termo_monitor/install/sistema:/opt/ros/lyrical /usr/bin/cmake --build /home/rafaelva/termo_monitor/build/interfaces_sistema -- -j16 -l16
+[0.714s] Invoking command in '/home/rafaelva/termo_monitor/build/interfaces_sistema': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rafaelva/termo_monitor/install/sistema:/opt/ros/lyrical /usr/bin/cmake --install /home/rafaelva/termo_monitor/build/interfaces_sistema
+[0.726s] -- Install configuration: ""
+[0.726s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/ament_index/resource_index/rosidl_interfaces/interfaces_sistema
+[0.726s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/srv/ResetTemperatura.json
+[0.726s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema
+[0.726s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv
+[0.727s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail
+[0.727s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__struct.h
+[0.727s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__type_support.h
+[0.727s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__functions.h
+[0.727s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__functions.c
+[0.727s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__type_support.c
+[0.728s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__description.c
+[0.728s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/reset_temperatura.h
+[0.728s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/msg
+[0.728s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/msg/rosidl_generator_c__visibility_control.h
+[0.728s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/environment/library_path.sh
+[0.728s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/environment/library_path.dsv
+[0.728s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/libinterfaces_sistema__rosidl_generator_c.so
+[0.729s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema
+[0.729s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv
+[0.729s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail
+[0.730s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__rosidl_typesupport_fastrtps_c.h
+[0.730s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/msg
+[0.730s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.731s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/libinterfaces_sistema__rosidl_typesupport_fastrtps_c.so
+[0.731s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema
+[0.731s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv
+[0.731s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail
+[0.732s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__rosidl_typesupport_introspection_c.h
+[0.732s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__type_support.c
+[0.732s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/msg
+[0.732s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.733s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/libinterfaces_sistema__rosidl_typesupport_introspection_c.so
+[0.734s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/libinterfaces_sistema__rosidl_typesupport_c.so
+[0.734s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema
+[0.734s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv
+[0.735s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/reset_temperatura.hpp
+[0.735s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail
+[0.735s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__builder.hpp
+[0.735s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__type_support.hpp
+[0.735s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__traits.hpp
+[0.736s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__struct.hpp
+[0.736s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/msg
+[0.736s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.737s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema
+[0.737s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv
+[0.737s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail
+[0.737s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__rosidl_typesupport_fastrtps_cpp.hpp
+[0.737s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/dds_fastrtps
+[0.737s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/msg
+[0.737s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.738s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/libinterfaces_sistema__rosidl_typesupport_fastrtps_cpp.so
+[0.739s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema
+[0.739s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv
+[0.739s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail
+[0.739s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__type_support.cpp
+[0.740s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/include/interfaces_sistema/interfaces_sistema/srv/detail/reset_temperatura__rosidl_typesupport_introspection_cpp.hpp
+[0.740s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/libinterfaces_sistema__rosidl_typesupport_introspection_cpp.so
+[0.741s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/libinterfaces_sistema__rosidl_typesupport_cpp.so
+[0.742s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/environment/pythonpath.sh
+[0.742s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/environment/pythonpath.dsv
+[0.743s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/interfaces_sistema_s__rosidl_typesupport_fastrtps_c.so
+[0.743s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/interfaces_sistema_s__rosidl_typesupport_introspection_c.so
+[0.744s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/interfaces_sistema_s__rosidl_typesupport_c.so
+[0.745s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/libinterfaces_sistema__rosidl_generator_py.so
+[0.746s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/rust
+[0.746s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/rust/src
+[0.746s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/rust/src/lib.rs
+[0.746s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/rust/src/srv.rs
+[0.747s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/rust/src/srv
+[0.747s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/rust/src/srv/rmw.rs
+[0.747s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/rust/build.rs
+[0.747s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/rust/Cargo.toml
+[0.747s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/srv/ResetTemperatura.idl
+[0.747s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/srv/ResetTemperatura.srv
+[0.748s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/ament_index/resource_index/package_run_dependencies/interfaces_sistema
+[0.748s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/ament_index/resource_index/parent_prefix_path/interfaces_sistema
+[0.748s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/environment/ament_prefix_path.sh
+[0.748s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/environment/ament_prefix_path.dsv
+[0.748s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/environment/path.sh
+[0.748s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/environment/path.dsv
+[0.748s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/local_setup.bash
+[0.748s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/local_setup.fish
+[0.748s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/local_setup.sh
+[0.748s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/local_setup.zsh
+[0.748s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/local_setup.dsv
+[0.748s] -- Installing: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/package.dsv
+[0.749s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/ament_index/resource_index/packages/interfaces_sistema
+[0.750s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/export_interfaces_sistema__rosidl_generator_cExport.cmake
+[0.750s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/export_interfaces_sistema__rosidl_generator_cExport-noconfig.cmake
+[0.750s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/export_interfaces_sistema__rosidl_typesupport_fastrtps_cExport.cmake
+[0.750s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/export_interfaces_sistema__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.751s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/interfaces_sistema__rosidl_typesupport_introspection_cExport.cmake
+[0.751s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/interfaces_sistema__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.752s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/interfaces_sistema__rosidl_typesupport_cExport.cmake
+[0.752s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/interfaces_sistema__rosidl_typesupport_cExport-noconfig.cmake
+[0.752s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/export_interfaces_sistema__rosidl_generator_cppExport.cmake
+[0.753s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/export_interfaces_sistema__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.753s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/export_interfaces_sistema__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.754s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/interfaces_sistema__rosidl_typesupport_introspection_cppExport.cmake
+[0.754s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/interfaces_sistema__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.754s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/interfaces_sistema__rosidl_typesupport_cppExport.cmake
+[0.755s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/interfaces_sistema__rosidl_typesupport_cppExport-noconfig.cmake
+[0.755s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/export_interfaces_sistema__rosidl_generator_pyExport.cmake
+[0.755s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/export_interfaces_sistema__rosidl_generator_pyExport-noconfig.cmake
+[0.755s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema-0.0.0-py3.14.egg-info
+[0.755s] -- Installing: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema-0.0.0-py3.14.egg-info/SOURCES.txt
+[0.756s] -- Installing: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema-0.0.0-py3.14.egg-info/top_level.txt
+[0.756s] -- Installing: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema-0.0.0-py3.14.egg-info/PKG-INFO
+[0.757s] -- Installing: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema-0.0.0-py3.14.egg-info/dependency_links.txt
+[0.757s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema
+[0.757s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/py.typed
+[0.757s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/interfaces_sistema_s__rosidl_typesupport_introspection_c.so
+[0.757s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/_interfaces_sistema_s.ep.rosidl_typesupport_c.c
+[0.758s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/srv
+[0.758s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/srv/_reset_temperatura.py
+[0.758s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/srv/_reset_temperatura_s.c
+[0.758s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/srv/__init__.py
+[0.758s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/_interfaces_sistema_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.758s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/interfaces_sistema_s__rosidl_typesupport_c.so
+[0.758s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/interfaces_sistema_s__rosidl_typesupport_fastrtps_c.so
+[0.758s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/_interfaces_sistema_s.ep.rosidl_typesupport_introspection_c.c
+[0.758s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/__init__.py
+[0.811s] Listing '/home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema'...
+[0.811s] Listing '/home/rafaelva/termo_monitor/install/interfaces_sistema/lib/python3.14/site-packages/interfaces_sistema/srv'...
+[0.821s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/rosidl_cmake-extras.cmake
+[0.821s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.821s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.822s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/ament_cmake_export_libraries-extras.cmake
+[0.822s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/ament_cmake_export_targets-extras.cmake
+[0.823s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.823s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.823s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/rosidl_cmake_aggregate_target-extras.cmake
+[0.823s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/interfaces_sistemaConfig.cmake
+[0.823s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/cmake/interfaces_sistemaConfig-version.cmake
+[0.823s] -- Up-to-date: /home/rafaelva/termo_monitor/install/interfaces_sistema/share/interfaces_sistema/package.xml
+[0.825s] Invoked command in '/home/rafaelva/termo_monitor/build/interfaces_sistema' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rafaelva/termo_monitor/install/sistema:/opt/ros/lyrical /usr/bin/cmake --install /home/rafaelva/termo_monitor/build/interfaces_sistema

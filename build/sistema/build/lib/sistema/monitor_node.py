@@ -28,7 +28,7 @@ class MonitorNode(Node):
     def callback_temperatura(self, msg):
 
         self.get_logger().info(
-            f'Recebido: {msg.data}ºC'
+            f'Recebido: {msg.data:.2f}ºC'
         )
 
 

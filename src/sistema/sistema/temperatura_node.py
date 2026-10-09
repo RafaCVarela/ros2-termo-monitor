@@ -59,11 +59,10 @@ class TemperaturaNode (Node):
         self.publisher.publish(msg)
 
         self.get_logger().info(
-            f'Temperatura: {msg.data}ºC'
+            f'Temperatura: {msg.data:.2f}ºC'
         )
 
-        theta = 2 * self.k * math.pi
-        self.temperatura += self.temperatura * math.sin(theta)
+        self.temperatura = self.temperatura + math.sin(self.k) * 5
 
         self.k += 0.1
 
